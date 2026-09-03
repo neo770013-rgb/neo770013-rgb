@@ -53,3 +53,7 @@
 - [回归测试](https://github.com/neo770013-rgb/Papaya-Portfolio/tree/main/tests)：查看演示边界与数据一致性检查。
 
 项目问题与技术交流欢迎通过 [Papaya Issues](https://github.com/neo770013-rgb/Papaya-Portfolio/issues) 留言。
+
+## 工程笔记
+
+[阅读 Web3 系统工程笔记](docs/engineering/README.md)：数据接入、订单状态、恢复对账与部署交付的设计检查表。
