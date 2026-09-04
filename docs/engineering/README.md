@@ -9,3 +9,4 @@
 ## 目录
 
 - [交易所适配器边界](api-boundary.md)
+- [交易对与资产命名](symbol-map.md)
