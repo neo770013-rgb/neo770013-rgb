@@ -12,3 +12,4 @@
 - [交易对与资产命名](symbol-map.md)
 - [金额与数量精度](decimal-money.md)
 - [数量步长校验](quantity-step.md)
+- [价格刻度校验](price-tick.md)
