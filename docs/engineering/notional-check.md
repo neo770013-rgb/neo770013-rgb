@@ -31,3 +31,7 @@
 ## 审阅问题
 
 过滤器更新后，缓存如何失效？
+
+## 延伸阅读
+
+[官方协议或标准库说明](https://developers.binance.com/en/docs/products/spot/filters)。本文的检查步骤是设计建议，具体参数应按实际环境验证。
