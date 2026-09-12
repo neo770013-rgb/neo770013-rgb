@@ -16,3 +16,4 @@
 - [名义金额与过滤器](notional-check.md)
 - [事件时间与接收时间](time-model.md)
 - [时钟偏移与请求窗口](clock-offset.md)
+- [HTTP 超时预算](http-timeouts.md)
