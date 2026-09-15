@@ -19,3 +19,4 @@
 - [HTTP 超时预算](http-timeouts.md)
 - [读取请求重试](read-retries.md)
 - [请求限额预算](rate-budget.md)
+- [错误分类与传播](error-model.md)
