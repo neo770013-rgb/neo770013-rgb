@@ -20,3 +20,4 @@
 - [读取请求重试](read-retries.md)
 - [请求限额预算](rate-budget.md)
 - [错误分类与传播](error-model.md)
+- [HMAC 请求载荷](hmac-payload.md)
