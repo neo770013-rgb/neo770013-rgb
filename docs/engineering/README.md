@@ -22,3 +22,4 @@
 - [错误分类与传播](error-model.md)
 - [HMAC 请求载荷](hmac-payload.md)
 - [凭证权限与生命周期](credential-scope.md)
+- [日志脱敏](log-redaction.md)
