@@ -24,3 +24,4 @@
 - [凭证权限与生命周期](credential-scope.md)
 - [日志脱敏](log-redaction.md)
 - [WebSocket 连接生命周期](ws-lifecycle.md)
+- [WebSocket 重连退避](ws-backoff.md)
