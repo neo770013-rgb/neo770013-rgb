@@ -27,3 +27,4 @@
 - [WebSocket 重连退避](ws-backoff.md)
 - [快照与增量衔接](snapshot-delta.md)
 - [数据新鲜度](stale-data.md)
+- [盘口深度与执行估计](book-depth.md)
