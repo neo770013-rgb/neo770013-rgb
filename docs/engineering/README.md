@@ -32,3 +32,4 @@
 - [订单状态机](order-states.md)
 - [下单结果未知](ambiguous-submit.md)
 - [部分成交记录](partial-fills.md)
+- [撤单与成交竞态](cancel-race.md)
