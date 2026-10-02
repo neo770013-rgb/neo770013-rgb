@@ -34,3 +34,4 @@
 - [部分成交记录](partial-fills.md)
 - [撤单与成交竞态](cancel-race.md)
 - [双腿执行编排](two-leg-flow.md)
+- [净敞口表达](exposure-model.md)
