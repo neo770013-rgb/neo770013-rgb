@@ -36,3 +36,4 @@
 - [双腿执行编排](two-leg-flow.md)
 - [净敞口表达](exposure-model.md)
 - [执行前约束检查](limits-gate.md)
+- [暂停开关语义](pause-switch.md)
