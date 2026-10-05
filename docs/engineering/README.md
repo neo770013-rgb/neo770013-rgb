@@ -37,3 +37,4 @@
 - [净敞口表达](exposure-model.md)
 - [执行前约束检查](limits-gate.md)
 - [暂停开关语义](pause-switch.md)
+- [本地与远端对账](state-reconcile.md)
