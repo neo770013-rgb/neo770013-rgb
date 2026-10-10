@@ -41,3 +41,4 @@
 - [SQLite 事务边界](sqlite-transaction.md)
 - [数据结构迁移](schema-change.md)
 - [去重键与唯一约束](unique-keys.md)
+- [状态变更事件记录](event-history.md)
