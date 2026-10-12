@@ -43,3 +43,4 @@
 - [去重键与唯一约束](unique-keys.md)
 - [状态变更事件记录](event-history.md)
 - [进程重启恢复](startup-recovery.md)
+- [异步任务取消](async-cancel.md)
