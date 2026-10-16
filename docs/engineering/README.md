@@ -47,3 +47,4 @@
 - [工作队列背压](worker-queue.md)
 - [请求关联与链路](trace-context.md)
 - [运行指标](health-metrics.md)
+- [前后端 API 契约](api-contract.md)
