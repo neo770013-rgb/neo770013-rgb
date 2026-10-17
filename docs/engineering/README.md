@@ -48,3 +48,4 @@
 - [请求关联与链路](trace-context.md)
 - [运行指标](health-metrics.md)
 - [前后端 API 契约](api-contract.md)
+- [分页与稳定排序](pagination-order.md)
