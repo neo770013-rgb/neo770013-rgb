@@ -51,3 +51,4 @@
 - [分页与稳定排序](pagination-order.md)
 - [界面异步状态](ui-async-states.md)
 - [筛选原因可解释性](filter-reasons.md)
+- [公开演示与执行隔离](safe-demo.md)
