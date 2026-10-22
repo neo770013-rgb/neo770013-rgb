@@ -52,3 +52,4 @@
 - [界面异步状态](ui-async-states.md)
 - [筛选原因可解释性](filter-reasons.md)
 - [公开演示与执行隔离](safe-demo.md)
+- [合成数据一致性](synthetic-data.md)
