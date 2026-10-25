@@ -54,3 +54,4 @@
 - [公开演示与执行隔离](safe-demo.md)
 - [合成数据一致性](synthetic-data.md)
 - [手续费记录与单位](fee-ledger.md)
+- [收益窗口边界](performance-window.md)
