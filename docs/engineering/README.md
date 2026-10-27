@@ -56,3 +56,4 @@
 - [手续费记录与单位](fee-ledger.md)
 - [收益窗口边界](performance-window.md)
 - [环境配置校验](env-config.md)
+- [容器构建边界](container-build.md)
