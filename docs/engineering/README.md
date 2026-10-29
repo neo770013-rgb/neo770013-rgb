@@ -57,3 +57,4 @@
 - [收益窗口边界](performance-window.md)
 - [环境配置校验](env-config.md)
 - [容器构建边界](container-build.md)
+- [存活与就绪检查](readiness.md)
