@@ -58,3 +58,4 @@
 - [环境配置校验](env-config.md)
 - [容器构建边界](container-build.md)
 - [存活与就绪检查](readiness.md)
+- [有序关闭](graceful-shutdown.md)
