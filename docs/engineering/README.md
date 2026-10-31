@@ -59,3 +59,4 @@
 - [容器构建边界](container-build.md)
 - [存活与就绪检查](readiness.md)
 - [有序关闭](graceful-shutdown.md)
+- [备份与恢复演练](backup-restore.md)
